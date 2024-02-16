@@ -1,1 +1,3 @@
-export const foo: string = 'foo' as const
+import { getGlobalThis } from './global-this'
+
+export const globalThis = getGlobalThis()
