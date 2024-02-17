@@ -1,7 +1,7 @@
 {
   "name": "@m9ch/global-this",
   "version": "0.1.0",
-  "description": "global-this ponyfill",
+  "description": "shim `global-this`",
   "license": "MIT",
   "files": [
     "dist"
