@@ -1,6 +1,6 @@
 /**
  * Manually portal from @tanker/global-this, without tanker-sdk typings.
- * @see https://github.com/TankerHQ/sdk-js/blob/23a5f8180ff862e08c9ec1197d10214c8c25b6bf/packages/global-this/package.json
+ * @see https://github.com/TankerHQ/sdk-js/blob/23a5f8180ff862e08c9ec1197d10214c8c25b6bf/packages/global-this/src/global-this.ts
 */
 
 // Warning: don't replace this module by the core-js-pure ponyfill
