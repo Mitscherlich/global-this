@@ -2,7 +2,7 @@
 
 [![npm version](https://badgen.net/npm/v/@m9ch/global-this)](https://npm.im/@m9ch/global-this) [![npm downloads](https://badgen.net/npm/dm/@m9ch/global-this)](https://npm.im/@m9ch/global-this)
 
-Just another `globalThis` ponyfill.
+Thiny `globalThis` shim.
 
 ## Install
 
@@ -14,6 +14,14 @@ pnpm add @m9ch/global-this
 yarn add @m9ch/global-this
 # or
 npm i -S @m9ch/global-this
+```
+
+## Usage
+
+```typescript
+import { globaThis } from '@m9ch/global-this'
+
+globalThis.window // Window
 ```
 
 ## License
