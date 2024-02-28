@@ -2,7 +2,7 @@
 
 [![npm version](https://badgen.net/npm/v/@m9ch/global-this)](https://npm.im/@m9ch/global-this) [![npm downloads](https://badgen.net/npm/dm/@m9ch/global-this)](https://npm.im/@m9ch/global-this)
 
-Thiny `globalThis` shim.
+tiny `globalThis` shim.
 
 ## Install
 
